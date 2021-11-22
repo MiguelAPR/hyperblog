@@ -1,4 +1,4 @@
-Se supone que este archivo es de texto plano
+Éste archivo es de texto plano
 
 Se puede visualizar en la terminal con 
 
@@ -9,3 +9,8 @@ Se puede visualizar en la terminal con
 Solo es para prueba, de verdad esto ya lo había visto
 
 oppai
+
+    Por alto que esté el cielo en el mundo
+    Por hondo que sea el mar más profundo,
+    No habrá una barrera en el mundo
+    Que mi amor profundo no rompa por ti...
