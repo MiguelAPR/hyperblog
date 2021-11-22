@@ -1,16 +1,8 @@
-Éste archivo es de texto plano
+Se supone que este archivo es de texto plano
 
 Se puede visualizar en la terminal con 
 
 ---> cat primer_texto.texto
 
-%%%%Primera modificación del archivo original
-
-Solo es para prueba, de verdad esto ya lo había visto
-
-oppai
-
-    Por alto que esté el cielo en el mundo
-    Por hondo que sea el mar más profundo,
-    No habrá una barrera en el mundo
-    Que mi amor profundo no rompa por ti...
+---> Esta es una nueva versión en la que se sobrepone el texto de
+las batallas en el desierto, adios adios
