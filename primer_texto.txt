@@ -4,3 +4,8 @@ Se puede visualizar en la terminal con
 
 ---> cat primer_texto.texto
 
+%%%%Primera modificación del archivo original
+
+Solo es para prueba, de verdad esto ya lo había visto
+
+oppai
