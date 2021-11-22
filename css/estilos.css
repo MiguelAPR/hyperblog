@@ -4,4 +4,19 @@ body
     font-family: "Arial";
     color: rgb(17, 204, 17);
     background-color: maroon;
+    font-size: 16px;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: right;
+    border: 1px solid #ddd  ;
+}
+
+#container h1
+{
+    font-size: 20xp;
+
 }
