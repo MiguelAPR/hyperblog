@@ -1,0 +1,6 @@
+Se supone que este archivo es de texto plano
+
+Se puede visualizar en la terminal con 
+
+---> cat primer_texto.texto
+
