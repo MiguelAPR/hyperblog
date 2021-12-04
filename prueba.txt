@@ -3,6 +3,8 @@ para pruebas en el git
 
 Este es el paso 2, comentario 1 en experimento 
 
+Este es el paso 3, comentario 2 en experimento
+
 Se empieza con comentario 1 en Main
 
 Este es el paso 4, comentario 2 en main
