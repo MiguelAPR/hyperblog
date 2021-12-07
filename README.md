@@ -6,3 +6,8 @@ Este readme es exclusivamente para empezar la edición de Readmes para ver su fu
 Se edit usando la herramienta de pandao. Disponible [aquí](https://pandao.github.io/editor.md/en.html "aquí")
 
 Se le van a hacer cambios a esta cosa para mandar a otro branch, nomás
+Se le van a hacer cambios a esta cosa para mandar a otro branch, nomás
+
+Blablabla comentario segundo
+
+Tercer comentario dentro del readme
